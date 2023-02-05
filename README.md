@@ -1,4 +1,4 @@
-##PyTorch Jupyter Notebook
+#PyTorch Jupyter Notebook
 
 This Jupyter notebook implements a deep learning model using PyTorch and provides visualizations to showcase the results.
 
